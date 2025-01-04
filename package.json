@@ -1,0 +1,11 @@
+{
+  "name": "backend-boiler-plate",
+  "version": "1.0.0",
+  "description": "Backend Boiler Plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha Rauf",
+  "license": "ISC"
+}
